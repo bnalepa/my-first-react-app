@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import Heading from './Header';
 import Menu from './Menu';
+import UserList from './UserList'
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
@@ -11,7 +12,11 @@ root.render(
   <React.StrictMode>
   <Heading/>
   <Menu/>
+  <UserList/>
+  
+
   </React.StrictMode>
+
  
 );
 

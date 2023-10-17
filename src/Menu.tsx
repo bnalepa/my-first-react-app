@@ -7,7 +7,7 @@ function Menu()
         <div>
         <b>Menu:</b><br/>
         <a href = "/">Index</a><br/>
-        <a href = "Album">Album</a><br/>
+        <a href = "/pages/Album">Album</a><br/>
         <a href = "Contact">Kontakt</a><br/>
         </div>
         
